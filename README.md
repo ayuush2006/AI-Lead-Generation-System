@@ -94,13 +94,13 @@ https://youtu.be/V7Cte1HAaWc?si=T1fptP0sjYG7cliE
 - Tabs Configuration  
 - Fields and Relationships  
 
-**Aditya**
+**Aditya Gautam**
 - Application Creation  
 - Validation Rules  
 - Flow Automation  
 - Agentforce Integration  
 
-**Kajal**
+**Kajal Chourey**
 - Profiles Setup  
 - Roles Configuration  
 - User Management  
