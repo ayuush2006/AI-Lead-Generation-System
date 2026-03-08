@@ -45,37 +45,34 @@ The main objectives of this project are:
 - GitHub  
 
 ## Project Structure :
-│
-├── Requirement_Analysis
-│   ├── understanding-business-requirements.pdf
-│   ├── defining-project-scope-and-objectives.pdf
-│
-├── Backend_Development
-│   ├── salesforce-account
-│   ├── objects-creation
-│   ├── tabs
-│   ├── fields-and-relationships
-│   ├── application-creation
-│   ├── validation-rules
-│   ├── flows
-│   ├── agentforce
-│
-├── UI_UX_Customization
-│   ├── profiles
-│   ├── roles
-│   ├── users
-│
-├── Testing_and_Security
-│   ├── data-migration
-│   ├── testing
-│   ├── security
-│
-├── Documentation
-│   ├── project-documentation.pdf
-│   ├── guidelines-project-documentation.pdf
-│
-├── screenshots
-└── README.md
+* **Requirement-Analysis-Planning**
+  * understanding-business-requirements.pdf
+  * defining-project-scope-and-objectives.pdf
+
+* **Backend-Development-Configurations**
+  * salesforce-account
+  * objects-creation
+  * tabs
+  * fields-and-relationships
+  * application-creation
+  * validation-rules
+  * flows
+  * agentforce
+
+* **UI-UX-Development-Customization**
+  * profiles
+  * roles
+  * users
+
+* **Data-Migration-Testing-Security**
+  * data-migration
+  * testing
+  * security
+
+* **Deployment-Documentation-Maintenance**
+  * user-adoption-change-management.pdf
+  * project-documentation.pdf
+  * guidelines-project-documentation.pdf
 
 ## Demo & Contributors
 **Demo Video:**  
